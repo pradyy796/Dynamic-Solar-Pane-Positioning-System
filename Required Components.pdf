@@ -1,0 +1,15 @@
+-> Software / IDE
+  1. Arduino IDE – for microcontroller programming
+  2. TinkerCAD or Fritzing – for circuit simulation
+  3. EasyEDA (or KiCad) – to generate Gerber files
+  4. GitHub – for hosting the project
+  5. OBS Studio / Mobile Camera – to record demo video
+
+-> Hardware
+ 1. Arduino Uno (or equivalent microcontroller)
+ 2. 2x LDRs (Light Dependent Resistors) – to sense sunlight
+ 3. 2x 10kΩ resistors – for LDR voltage divider
+ 4. Servo Motor / DC Motor + Motor Driver – for panel movement
+ 5. Solar Panel (optional for physical prototype)
+ 6. Breadboard + jumper wires
+ 7. Power supply (Battery or USB)
