@@ -1,0 +1,5 @@
+1. Design and implement a solar tracking system using a microcontroller and light sensors.
+2. System must rotate the panel (1 or 2-axis) using servo or DC motors based on sensor data.
+3. Use simulated circuits and optionally a real prototype.
+4. Improve the efficiency of energy generation compared to static panels.
+5. Provide code, simulation, and documentation for submission.
