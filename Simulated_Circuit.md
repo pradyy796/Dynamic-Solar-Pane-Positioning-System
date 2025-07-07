@@ -27,7 +27,7 @@ Simulation Link
 
 Circuit Screenshot
 
-(./Images/simulation.png)  
+(./simulation.png)  
 
 ---
 - Built using [TinkerCAD Circuits](https://www.tinkercad.com/)
